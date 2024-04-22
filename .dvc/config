@@ -1,0 +1,4 @@
+[core]
+    remote = defstorage
+['remote "defstorage"']
+    url = gdrive://1o_ymhld6GJS1l6rGAhbiGcHvfsUwdFQn

@@ -1,0 +1,5 @@
+outs:
+- md5: 3cf155067931e679613cab75bc183abe
+  size: 194
+  hash: md5
+  path: PersistentTest.csv
